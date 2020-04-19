@@ -29,3 +29,8 @@ As you can see, each row in the dataset represents a single question on a single
   
 ### Chi-squared results
 None of the terms had a significant difference in usage between high value and low value rows. Additionally, the frequencies were all lower than 5, so the chi-squared test isn't as valid. It would be better to run this test with only terms that have higher frequencies.
+
+## Note
+### - Please see the `jeopardy.ipynb` file to see whole project in detail.
+### - Please see `jeopardy.py` file to see the python code.
+### - `jeopardy.csv` is the dataset we used in this project.
